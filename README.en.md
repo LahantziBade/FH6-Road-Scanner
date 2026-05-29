@@ -9,7 +9,7 @@ It simulates row-by-row mouse movement on the map and detects whether the “Fas
 
 ## Quick Start
 
-Go to the Releases page, download the latest version archive, unzip it, and run the program.
+Go to the [Releases](https://github.com/LahantziBade/FH6-Road-Scanner/releases/latest) page, download the latest version archive, unzip it, and run the program.
 
 ## Features
 

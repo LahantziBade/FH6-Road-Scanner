@@ -8,7 +8,7 @@
 
 ## 快速开始
 
-前往release页下载最新版本压缩包，解压即可使用。
+前往[Releases](https://github.com/LahantziBade/FH6-Road-Scanner/releases/latest)下载最新版本压缩包，解压即可使用。
 
 ## 功能
 

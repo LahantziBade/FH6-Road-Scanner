@@ -9,7 +9,7 @@
 
 ## クイックスタート
 
-Releases ページから最新版の圧縮ファイルをダウンロードし、解凍してそのまま使用できます。
+[Releases](https://github.com/LahantziBade/FH6-Road-Scanner/releases/latest) ページから最新版の圧縮ファイルをダウンロードし、解凍してそのまま使用できます。
 
 ## 機能
 
